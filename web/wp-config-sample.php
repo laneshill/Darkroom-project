@@ -1,0 +1,1 @@
+/home/dallas/darkroom/wp-config-sample.php
